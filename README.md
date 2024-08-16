@@ -10,4 +10,8 @@ more about the deployment of NLP, Geogprahic Data Science, and ML/AI on edge usi
 
 https://5uperpalo.github.io/online-cv/
 
+- ✉️ you can reach me on ...
+
+[Linkedin](https://www.linkedin.com/in/mulinka/) or [X/Twitter](https://x.com/PMulinka)
+
 ![5uperpalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5uperpalo&theme=synthwave&show_icons=true&hide_border=true)
