@@ -14,4 +14,4 @@ https://5uperpalo.github.io/online-cv/
 
 [Linkedin](https://www.linkedin.com/in/mulinka/) or [X/Twitter](https://x.com/PMulinka)
 
-![5uperpalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5uperpalo&theme=synthwave&show_icons=true&hide_border=true)
+[![5uperpalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5uperpalo&theme=synthwave&show_icons=true&hide_border=true)]: #
